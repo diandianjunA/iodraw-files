@@ -100,7 +100,7 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-4" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-5" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-5" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-6" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
