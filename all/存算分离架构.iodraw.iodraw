@@ -127,7 +127,7 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-13" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-14" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-14" value="SSD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="380" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -136,7 +136,7 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-16" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="606.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-17" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-17" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="681.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-18" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
