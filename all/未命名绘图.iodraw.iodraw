@@ -79,8 +79,11 @@
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-23" value="计算节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-24" value="计算节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-24" value="计算节点2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-25" value="计算节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
