@@ -89,7 +89,7 @@
           <mxGeometry x="345" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-1" value="计算层集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="510" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
