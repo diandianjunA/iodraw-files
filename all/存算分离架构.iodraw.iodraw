@@ -154,7 +154,7 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-22" value="存储节点4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-23" value="计算层集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-23" value="存储层集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="440" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
