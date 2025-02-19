@@ -37,8 +37,20 @@
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-9" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-10" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-10" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="260" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-12" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-13" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_U_iRtfGJ3SLwYYnHQyj-14" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="270" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
