@@ -148,10 +148,10 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-20" value="存储节点2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-21" value="计算节点3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-21" value="存储节点3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="469" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-22" value="计算节点4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-22" value="存储节点4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-23" value="计算层集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
