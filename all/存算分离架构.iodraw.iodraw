@@ -26,70 +26,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="200" width="355" height="280" as="geometry" />
+          <mxGeometry x="30" y="200" width="355" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="62.5" y="210" width="150" height="90" as="geometry" />
+          <mxGeometry x="47.5" y="210" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-8" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="52.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-9" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="127.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-10" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="260" width="135" height="30" as="geometry" />
+          <mxGeometry x="52.5" y="260" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="210" width="150" height="90" as="geometry" />
+          <mxGeometry x="217.5" y="210" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-12" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-13" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-14" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="260" width="135" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="260" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="62.5" y="330" width="150" height="90" as="geometry" />
+          <mxGeometry x="47.5" y="330" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-16" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="52.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-17" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="127.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-18" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="380" width="135" height="30" as="geometry" />
+          <mxGeometry x="52.5" y="380" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="330" width="150" height="90" as="geometry" />
+          <mxGeometry x="217.5" y="330" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-20" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-21" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-22" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="380" width="135" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="380" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-23" value="计算节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="105" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-24" value="计算节点2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="275" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-25" value="计算节点3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="85" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U_iRtfGJ3SLwYYnHQyj-26" value="计算节点4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="275" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-1" value="计算层集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="172.5" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUYmJBu1Fk7s96N_YopR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="355" height="280" as="geometry" />
