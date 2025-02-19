@@ -184,7 +184,7 @@
         <mxCell id="RUYmJBu1Fk7s96N_YopR-30" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="40" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUYmJBu1Fk7s96N_YopR-31" value="ProxyServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RUYmJBu1Fk7s96N_YopR-31" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="40" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
